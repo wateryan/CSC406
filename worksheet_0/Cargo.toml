@@ -1,0 +1,7 @@
+[package]
+name = "worksheet_0"
+version = "0.1.0"
+authors = ["ryan"]
+
+[dependencies]
+rand = "0.3"
