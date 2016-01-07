@@ -1,1 +1,3 @@
 language: rust
+
+install: cd worksheet_0/ && cargo build
